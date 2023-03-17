@@ -12,7 +12,17 @@
   </head>
   <body>
     <header>
-        <img src="logo.png" alt="logo pizzaria" />
+      <div class="container d-flex justify-content-between">
+        <img src="img/logo.png" alt="logo pizzaria" />
+</div>
+        <nav>
+          <ul class="menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Cardápio</a></li>
+            <li><a href="#">Contato</a></li>
+          </ul>
+        </nav>
 </header>
 
     <!-- JavaScript (Opcional) -->
